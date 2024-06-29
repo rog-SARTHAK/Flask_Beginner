@@ -10,3 +10,8 @@ Hello World Flask Application\
 - Create app.py file
 - Include web app script in it
 - In Terminal run 'python app.py'
+
+
+![alt text](https://github.com/rog-SARTHAK/Flask_Beginner/blob/main/Assets/01.png)
+
+![alt text](https://github.com/rog-SARTHAK/Flask_Beginner/blob/main/Assets/02.png)
