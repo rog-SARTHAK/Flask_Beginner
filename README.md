@@ -11,6 +11,10 @@ Hello World Flask Application\
 - Include web app script in it
 - In Terminal run 'python app.py'
 
+**NOTE**
+
+5000 is the default port\
+
 
 ![alt text](https://github.com/rog-SARTHAK/Flask_Beginner/blob/main/Assets/01.png)
 
