@@ -13,7 +13,7 @@ Hello World Flask Application
 
 **NOTE**
 
-5000 is the default port\
+5000 is the default port
 
 
 ![alt text](https://github.com/rog-SARTHAK/Flask_Beginner/blob/main/Assets/01.png)
