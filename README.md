@@ -19,3 +19,7 @@ Hello World Flask Application
 ![alt text](https://github.com/rog-SARTHAK/Flask_Beginner/blob/main/Assets/01.png)
 
 ![alt text](https://github.com/rog-SARTHAK/Flask_Beginner/blob/main/Assets/02.png)
+
+### Declaring variables
+
+![alt text](https://github.com/rog-SARTHAK/Flask_Beginner/blob/main/Assets/03.png)
