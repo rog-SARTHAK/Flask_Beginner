@@ -23,3 +23,7 @@ Hello World Flask Application
 ### Declaring variables
 
 ![alt text](https://github.com/rog-SARTHAK/Flask_Beginner/blob/main/Assets/03.png)
+
+### Creating simple form html page
+
+![alt text](https://github.com/rog-SARTHAK/Flask_Beginner/blob/main/Assets/04.png)
