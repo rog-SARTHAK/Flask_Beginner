@@ -1,0 +1,32 @@
+<html>
+<head>
+</head>
+
+<body>
+    <div class="calculate">
+        <h1>Calculate average marks</h1>
+
+        <!-- Main Input for receiving query-->
+        <form action="{{ url_for('form')}}" method="POST">
+
+        <!--   Flask url_for() method
+        The url_for() method, is used to prepare a URL, for a function dynamically, 
+        such that, changing URLs, in the application, is avoided. 
+        It accepts, the name of the view function, as the first argument, and, 
+        any number of keywords, to be sent(to the view function), as the second argument. -->
+    
+            <input type="text" name="maths" placeholder="Maths" required="required" />
+            <input type="text" name="science" placeholder="Science" required="required" />
+            <input type="text" name="history" placeholder="History" required="required" />
+            
+            <button type="submit" class="btn btn-primary btn-block btn-large">Calculate Button</button>
+        </form>
+
+        <br>
+            {% if score is defined %}
+                The average marks is {{ score }}
+            {% endif %}
+        <br>
+    </div>
+</body>
+</html>
