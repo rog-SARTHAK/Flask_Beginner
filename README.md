@@ -38,6 +38,6 @@ Hello World Flask Application
 ![alt text](https://github.com/rog-SARTHAK/Flask_Beginner/blob/main/Assets/06.png)
 
 
-### Screenshot of a simple Falsk API performing sum
+### Screenshot of a simple Falsk API performing sum appV4
 
 ![alt text](https://github.com/rog-SARTHAK/Flask_Beginner/blob/main/Assets/07.png)
