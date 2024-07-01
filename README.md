@@ -33,6 +33,6 @@ Hello World Flask Application
 
 ![alt text](https://github.com/rog-SARTHAK/Flask_Beginner/blob/main/Assets/05.png)
 
-### Screenshot of a simple form with redirect appV3
+### Screenshot of a simple form with redirect with if else condition appV3
 
 ![alt text](https://github.com/rog-SARTHAK/Flask_Beginner/blob/main/Assets/06.png)
