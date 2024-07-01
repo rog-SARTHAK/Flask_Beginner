@@ -20,6 +20,7 @@ Hello World Flask Application
 
 ![alt text](https://github.com/rog-SARTHAK/Flask_Beginner/blob/main/Assets/02.png)
 
+
 ### Declaring variables
 
 ![alt text](https://github.com/rog-SARTHAK/Flask_Beginner/blob/main/Assets/03.png)
@@ -27,3 +28,7 @@ Hello World Flask Application
 ### Creating simple form html page
 
 ![alt text](https://github.com/rog-SARTHAK/Flask_Beginner/blob/main/Assets/04.png)
+
+### Screenshot of a simple form appV2
+
+![alt text](https://github.com/rog-SARTHAK/Flask_Beginner/blob/main/Assets/05.png)
